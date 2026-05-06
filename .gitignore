@@ -1,0 +1,11 @@
+node_modules
+dist
+.codex/
+.playwright-cli/
+vite.config.ts.timestamp-*
+*.log
+.DS_Store
+Thumbs.db
+.env
+.env.local
+.env.*.local
