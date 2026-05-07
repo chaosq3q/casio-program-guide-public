@@ -1,8 +1,8 @@
-# Cal Gay Auto
+# Casio program guide
 
 A small React + Vite tool for visualizing Casio-style calculator programs step by step.
 
-Demo: https://chaosq3q.github.io/cal-gay-auto/
+[Demo](https://chaosq3q.github.io/cal-gay-auto/)
 
 The app parses pasted program text, expands it into calculator key presses, and highlights the next key on a calculator image. It also includes token-by-token playback so you can inspect how the source is interpreted.
 
